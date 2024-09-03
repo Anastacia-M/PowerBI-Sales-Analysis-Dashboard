@@ -4,7 +4,7 @@
 This data analysis project aims to provide an in-depth understanding of sales performance across different regions and sales representatives for the years 2021 and 2022. The main objective was to create an interactive Power BI dashboard that allows users to explore sales data, track key metrics such as total sales, average unit costs, and maximum unit costs, and identify trends and patterns that can inform business decisions.
 
 ## Data Sources
-Sales Data: The primary dataset used for this analysis is the "Sales_data_14.xls" file, which contains detailed information on sales transactions, including order dates, regions, representatives, items, and unit costs.
+Sales Data: The primary dataset used for this analysis is the [Sales_data_14.xlsx](https://github.com/user-attachments/files/16858891/Sales_data_14.xlsx) file, which contains detailed information on sales transactions, including order dates, regions, representatives, items, and unit costs.
 
 ## Tools
 Power BI: Utilized for data analysis, report creation, and interactive visualizations.
