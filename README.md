@@ -26,18 +26,19 @@ To provide users with the ability to explore the sales data effectively, the das
 These questions are intended to guide users as they interact with the dashboard, allowing them to filter and drill down into the data based on their specific interests.
 
 ## Results and Findings
-The final Power BI dashboard includes several interactive visuals:
+The final Power BI dashboard includes several interactive visuals, as described below. Slicers allow users to filter data by region, representative, and dates for a more detailed view. 
+A card visual displays key metrics, including total sales (in $K), maximum unit cost, and the total number of orders.
 
 **Total Sales by Region:** <br />
 A pie chart visual that displays total sales distributed across different regions. <br />
 From the chart, we can observe that the **Central region** dominates with 56.75% of total sales, followed by the **East region** with 30.58%. The **West region** contributes the least, making up only 12.67% of total sales. This highlights the Central region as the key driver of sales, while the East region holds a strong middle position.
 
 **Sales Representative Performance:** <br />
-A stacked column chart displays total sales by representative, with a line indicating the fixed average sales across all sales orders. The slicers allow filtering by region, representative, and dates for a more detailed view. <br />
+A stacked column chart displays total sales by representative and by item, with a line indicating the fixed average sales across all sales orders.  <br />
 The top three performing representatives are **Kivell** from the Central region, **Parent** from the East region, and **Jardine** from the Central region. Kivell and Parent have similar sales figures. Almost half of Kivell's sales come from Pen Sets, whereas over half of Parent's and Jardine's sales come from Binders.
 
 **Item-Level Sales and Cost Analysis:** <br />
-A line and clustered column chart that compares total sales with maximum unit costs for each item. The slicers allow filtering by region, representative, and dates for a more detailed view. <br />
+A line and clustered column chart that compares total sales with maximum unit costs for each item.  <br />
 **Binders** dominate sales across all categories, leading by a significant margin in sales volume, despite having the second-lowest maximum unit cost. In contrast, **Desks**, which have the highest maximum unit cost, contribute the least to overall sales. This pattern suggests that lower-priced items tend to drive higher sales volumes.
 
 This interactive dashboard enables users to gain valuable insights into sales trends, identify top-performing regions and representatives, and understand the impact of unit costs on overall sales. By leveraging these insights, users can make informed decisions to optimize sales strategies and improve performance across different segments.
