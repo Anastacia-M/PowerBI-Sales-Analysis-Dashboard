@@ -29,14 +29,15 @@ These questions are intended to guide users as they interact with the dashboard,
 ## Results and Findings
 The final Power BI dashboard includes several interactive visuals:
 
-**Total Sales by Region:** A pie chart visual that displays total sales distributed across different regions.
-**Sales Representative Performance:** A line and stacked column chart that shows total sales and average sales per representative, with the ability to filter by region and representative.
+**Total Sales by Region:** A pie chart visual that displays total sales distributed across different regions. <br />
+**Sales Representative Performance:** A line and stacked column chart that shows total sales and average sales per representative, with the ability to filter by region and representative.<br />
 **Item-Level Sales and Cost Analysis:** A line and clustered column chart that compares total sales with maximum unit costs for each item.
 
 This interactive dashboard enables users to gain valuable insights into sales trends, identify top-performing regions and representatives, and understand the impact of unit costs on overall sales. By leveraging these insights, users can make informed decisions to optimize sales strategies and improve performance across different segments.
 
-You can review the final dashboard by referring to the provided screenshot and interacting with the Power BI file as needed.
+You can review the final dashboard by referring to the provided screenshot and interacting with the Power BI file in the repository as needed.
 
+![Sales Analysis Dashboard](https://github.com/user-attachments/assets/6e141d87-a08c-4dc7-a0bc-5c838ae39314)
 
 
 
