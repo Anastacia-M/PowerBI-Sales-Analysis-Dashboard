@@ -1,5 +1,10 @@
 # Sales Analysis Dashboard
 
+ - [Project Overview](#project-overview)
+ - [Data Sources](#data-sources)
+ - [Exploratory Data Analysis](#exploratory-data-analysis)
+ - [Results](#results-and-findings)
+   
 ## Project Overview
 This data analysis project aims to provide an in-depth understanding of sales performance across different regions and sales representatives for the years 2021 and 2022. The main objective was to create an interactive Power BI dashboard that allows users to explore sales data, track key metrics such as total sales, average unit costs, and maximum unit costs, and identify trends and patterns that can inform business decisions.
 
