@@ -48,6 +48,6 @@ A line and clustered column chart that compares total sales with maximum unit co
 
 This interactive dashboard enables users to gain valuable insights into sales trends, identify top-performing regions and representatives, and understand the impact of unit costs on overall sales. By leveraging these insights, users can make informed decisions to optimize sales strategies and improve performance across different segments.
 
-You can review the final dashboard by referring to the provided screenshot and interacting with the Sales Analysis.pbix Power BI file in the repository as needed.
+You can review the final dashboard by referring to the provided screenshot and interacting with the `Sales Analysis.pbix` Power BI file in the repository as needed.
 
 ![Sales Analysis Dashboard](https://github.com/user-attachments/assets/ef1620c3-850c-4520-8f12-38ef27b60992)
