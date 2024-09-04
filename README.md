@@ -37,7 +37,7 @@ This interactive dashboard enables users to gain valuable insights into sales tr
 
 You can review the final dashboard by referring to the provided screenshot and interacting with the Power BI file in the repository as needed.
 
-![Sales Analysis Dashboard](https://github.com/user-attachments/assets/6e141d87-a08c-4dc7-a0bc-5c838ae39314)
+
 
 
 
