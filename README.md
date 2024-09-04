@@ -19,10 +19,10 @@ Preparing and organizing the data to enable seamless filtering and analysis with
 ## Exploratory Data Analysis
 To provide users with the ability to explore the sales data effectively, the dashboard was designed with the following key questions in mind:
 
-1) **Sales Performance by Region:** How do total sales compare across different regions?
-2) **Sales Representative Insights:** Which sales representatives are performing the best, and how do their sales figures vary over time?
-3) **Item-Level Analysis:** What are the trends in total sales and unit costs across different items?
-3) **Cost Analysis:** How do average and maximum unit costs impact overall sales performance?
+1) **Sales Performance by Region:** How do total sales compare across different regions? From the chart, we can observe that the **Central region** dominates with 56.75% of total sales, followed by the **East region** with 30.58%. The **West region** contributes the least, making up only 12.67% of total sales. This highlights the Central region as the key driver of sales, while the East region holds a strong middle position. <br />
+2) **Sales Representative Insights:** Which sales representatives are performing the best, and how are the sales figures distributed by item sold? The top three performing representatives are **Kivell** from the Central region, **Parent** from the East region, and **Jardine** from the Central region. Kivell and Parent have similar sales figures. Almost half of Kivell's sales come from Pen Sets, whereas over half of Parent's and Jardine's sales come from Binders. <br />
+3) **Item-Level Analysis:** What item generates the most sales? **Binders** lead by a significant margin in terms of sales volume, making them the top-selling item across all categories. <br />
+3) **Cost Analysis:** How do maximum unit costs impact overall sales performance? Despite having the second-lowest maximum unit cost, **Binders** generate the highest sales. Conversely, **Desks** have the highest maximum cost among all items but contribute the least to overall sales. This suggests that lower-priced items tend to drive higher sales volume.
 
 These questions are intended to guide users as they interact with the dashboard, allowing them to filter and drill down into the data based on their specific interests.
 
