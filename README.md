@@ -19,10 +19,11 @@ Preparing and organizing the data to enable seamless filtering and analysis with
 ## Exploratory Data Analysis
 To provide users with the ability to explore the sales data effectively, the dashboard was designed with the following key questions in mind:
 
-Sales Performance by Region: How do total sales compare across different regions?
-Sales Representative Insights: Which sales representatives are performing the best, and how do their sales figures vary over time?
-Item-Level Analysis: What are the trends in total sales and unit costs across different items?
-Cost Analysis: How do average and maximum unit costs impact overall sales performance?
+1) **Sales Performance by Region:** How do total sales compare across different regions?
+2) **Sales Representative Insights:** Which sales representatives are performing the best, and how do their sales figures vary over time?
+3) **Item-Level Analysis:** What are the trends in total sales and unit costs across different items?
+3) **Cost Analysis:** How do average and maximum unit costs impact overall sales performance?
+
 These questions are intended to guide users as they interact with the dashboard, allowing them to filter and drill down into the data based on their specific interests.
 
 ## Results and Findings
