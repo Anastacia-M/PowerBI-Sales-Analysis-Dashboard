@@ -1,5 +1,7 @@
 # Sales Analysis Dashboard
 
+## Table of Contents:
+
  - [Project Overview](#project-overview)
  - [Data Sources](#data-sources)
  - [Exploratory Data Analysis](#exploratory-data-analysis)
